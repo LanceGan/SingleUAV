@@ -1,4 +1,4 @@
-# Dual Radio Map-Aware Flight Strategy Optimization for UAV-Based Inspection System
+# [ICC2026]Dual Radio Map-Aware Flight Strategy Optimization for UAV-Based Inspection System
 
 ## 📖 Overview
 

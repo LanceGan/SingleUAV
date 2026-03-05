@@ -95,6 +95,6 @@ If you use this work in your research, please cite:
 @article{gan2024dual,
   title={Dual Radio Map-Aware Flight Strategy Optimization for UAV-Based Inspection System},
   author={Gan, Ruijie and Peng, Haixia and Cao, Jiangling and Su, Zhou and Luan, Tom H and Cheng, Nan},
-  journal={IEEE Transactions on},
-  year={2024}
+  conference={IEEE ICC 2026},
+  year={2026}
 }
